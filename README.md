@@ -31,7 +31,16 @@ One unique benefit of SPI is the fact that data can be transferred without inter
 </ol>
 
 ## Part-1: Verilog Based Verification of each IP block
-<li> slave.v 
-<li> master.v
+<li> Implemented a verilog file containing Master and Slave modules
   
 ## Part-2: SystemVerilog Based Testbench Verification
+<li> Implemented a basic Verilog testbench for the Verilog design
+<li> Improvised on the above testbench by building a SystemVerilog testbench with necessary classes and interfaces
+
+## Team Members:
+<li> Parnika Sisodia
+<li>Poulami Paul
+<li> Pragya Gupta
+<li> Prerna Mittal
+<li> Pujithapydi
+<li> Sakshi Dattatraya Jawanjal
